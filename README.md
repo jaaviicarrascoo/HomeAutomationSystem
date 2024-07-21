@@ -1,2 +1,3 @@
-# HomeAutomationSystem
-A simple home automation system that is based on Java (main dashboard) and C (hardware and low-level part).
+# Home Automation System
+A simple simulated home automation system that can manage sensors like temperature, phototransistors, or PIR, and actuators like electric relays, dimmers for blinds, etc.
+
